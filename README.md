@@ -1,1 +1,1 @@
-# icp3
+Name: Vinay Kumar Reddy Gunuguntla ID:700745726 Code file:NN-Assignment3 Document:Neural Networks & Deep Learning - ICP-3 Link: https://drive.google.com/file/d/1322c-641LeCXm-tGJfC8eLX08PUHBFsA/view?usp=drive_link
